@@ -1,5 +1,5 @@
 _repo: Note-Book-of-Anton-Chekhov_12494
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translators:
   - agent_name: Woolf, Leonard
@@ -20,6 +20,9 @@ contributor:
     gutenberg_agent_id: '4566'
     url: http://www.gutenberg.org/2009/agents/4566
     wikipedia: http://en.wikipedia.org/wiki/S._S._Koteliansky
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Chekhov, Anton Pavlovich
@@ -34,6 +37,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/708
     wikipedia: http://en.wikipedia.org/wiki/Anton_Chekhov
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12494#Note-Book-of-Anton-Chekhov
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
